@@ -1,7 +1,7 @@
 class cells{
   
   private int[][] cell;
-  int w; int l; //w is width, l is height (not length lmfao) 
+  int w; int l; //w is width, l is height (not length) 
   int size;
   int padding; 
   
